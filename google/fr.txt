@@ -1,0 +1,11 @@
+ALTER TABLE `material` 
+ADD FOREIGN KEY (`uid` )
+ REFERENCES `users` (`uid` )
+
+ALTER TABLE `chapter` 
+ADD FOREIGN KEY (`sid` )
+ REFERENCES `users` (`sid` )
+
+ALTER TABLE `subject` 
+ADD FOREIGN KEY (`uid` ) 
+REFERENCES `users` (`uid` )

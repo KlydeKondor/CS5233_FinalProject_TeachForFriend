@@ -1,0 +1,7 @@
+techteach
+project id techteach-195504
+
+client id  67654922017-l5bpppiste78mbqlsj65e361kukn8t5r.apps.googleusercontent.com
+
+
+client-secret  P9HM1m5LN9mgDbPUFB3lxfRe
